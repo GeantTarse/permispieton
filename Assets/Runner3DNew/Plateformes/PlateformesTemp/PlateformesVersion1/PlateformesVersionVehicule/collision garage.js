@@ -8,6 +8,7 @@ function OnColliderEnter (col : Collision) {
 
 if(col.gameObject.tag == "Player"){
 
+Debug.Log("perdu");
 Perdu();
 
 }
@@ -15,7 +16,7 @@ Perdu();
 }
 
 function Perdu(){
-yield WaitForSeconds(1.5f)
+yield WaitForSeconds(1.5f);
 
 Application.LoadLevel("perdusvoiture");
 
