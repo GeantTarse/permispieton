@@ -7,3 +7,5 @@ C'est un prototype de jeu pour apprendre les règle de circulation en vue de pas
 Ce projet a été effectué avec le soutien du carrefour des mobilités inclusives de Vélizy.
 
 Les assets créés pour l'occasion sont sous licence Creative Commons 3.0 CC-BY-NC-SA
+
+Modification : Attention, certains Assets ne peuvent être utilisés dans un projet commerciale comme les asset "BMW X5", "Unity chan", ...
